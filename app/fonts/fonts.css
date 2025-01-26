@@ -1,0 +1,246 @@
+/**
+* @license
+*
+* Font Family: Gambarino
+* Designed by: Théo Guillard
+* URL: https://www.fontshare.com/fonts/gambarino
+* © 2024 Indian Type Foundry
+*
+* Gambarino Regular 
+
+*
+*/
+@font-face {
+  font-family: 'Gambarino-Regular';
+  src: url('Gambarino-Regular.woff2') format('woff2'),
+       url('Gambarino-Regular.woff') format('woff'),
+       url('Gambarino-Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-display: swap;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'Boska-Extralight';
+  src: url('Boska-Extralight.woff2') format('woff2'),
+       url('Boska-Extralight.woff') format('woff'),
+       url('Boska-Extralight.ttf') format('truetype');
+  font-weight: 200;
+  font-display: swap;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Boska-ExtralightItalic';
+  src: url('Boska-ExtralightItalic.woff2') format('woff2'),
+       url('Boska-ExtralightItalic.woff') format('woff'),
+       url('Boska-ExtralightItalic.ttf') format('truetype');
+  font-weight: 200;
+  font-display: swap;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'Boska-Light';
+  src: url('Boska-Light.woff2') format('woff2'),
+       url('Boska-Light.woff') format('woff'),
+       url('Boska-Light.ttf') format('truetype');
+  font-weight: 300;
+  font-display: swap;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Boska-LightItalic';
+  src: url('Boska-LightItalic.woff2') format('woff2'),
+       url('Boska-LightItalic.woff') format('woff'),
+       url('Boska-LightItalic.ttf') format('truetype');
+  font-weight: 300;
+  font-display: swap;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'Boska-Regular';
+  src: url('Boska-Regular.woff2') format('woff2'),
+       url('Boska-Regular.woff') format('woff'),
+       url('Boska-Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-display: swap;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Boska-Italic';
+  src: url('Boska-Italic.woff2') format('woff2'),
+       url('Boska-Italic.woff') format('woff'),
+       url('Boska-Italic.ttf') format('truetype');
+  font-weight: 400;
+  font-display: swap;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'Boska-Medium';
+  src: url('Boska-Medium.woff2') format('woff2'),
+       url('Boska-Medium.woff') format('woff'),
+       url('Boska-Medium.ttf') format('truetype');
+  font-weight: 500;
+  font-display: swap;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Boska-MediumItalic';
+  src: url('Boska-MediumItalic.woff2') format('woff2'),
+       url('Boska-MediumItalic.woff') format('woff'),
+       url('Boska-MediumItalic.ttf') format('truetype');
+  font-weight: 500;
+  font-display: swap;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'Boska-Bold';
+  src: url('Boska-Bold.woff2') format('woff2'),
+       url('Boska-Bold.woff') format('woff'),
+       url('Boska-Bold.ttf') format('truetype');
+  font-weight: 700;
+  font-display: swap;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Boska-BoldItalic';
+  src: url('Boska-BoldItalic.woff2') format('woff2'),
+       url('Boska-BoldItalic.woff') format('woff'),
+       url('Boska-BoldItalic.ttf') format('truetype');
+  font-weight: 700;
+  font-display: swap;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'Boska-Black';
+  src: url('Boska-Black.woff2') format('woff2'),
+       url('Boska-Black.woff') format('woff'),
+       url('Boska-Black.ttf') format('truetype');
+  font-weight: 900;
+  font-display: swap;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Boska-BlackItalic';
+  src: url('Boska-BlackItalic.woff2') format('woff2'),
+       url('Boska-BlackItalic.woff') format('woff'),
+       url('Boska-BlackItalic.ttf') format('truetype');
+  font-weight: 900;
+  font-display: swap;
+  font-style: italic;
+}
+/**
+* This is a variable font
+* You can control variable axes as shown below:
+* font-variation-settings: wght 200.0;
+*
+* available axes:
+'wght' (range from 200.0 to 900.0
+*/
+@font-face {
+  font-family: 'Boska-Variable';
+  src: url('Boska-Variable.woff2') format('woff2'),
+       url('Boska-Variable.woff') format('woff'),
+       url('Boska-Variable.ttf') format('truetype');
+  font-weight: 200 900;
+  font-display: swap;
+  font-style: normal;
+}
+/**
+* This is a variable font
+* You can control variable axes as shown below:
+* font-variation-settings: wght 200.0;
+*
+* available axes:
+'wght' (range from 200.0 to 900.0
+*/
+@font-face {
+  font-family: 'Boska-VariableItalic';
+  src: url('Boska-VariableItalic.woff2') format('woff2'),
+       url('Boska-VariableItalic.woff') format('woff'),
+       url('Boska-VariableItalic.ttf') format('truetype');
+  font-weight: 200 900;
+  font-display: swap;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Geist-Thin';
+  src: url('Geist-Thin.woff2') format('woff2'),
+       url('Geist-Thin.woff') format('woff');
+  font-weight: 200;
+  font-display: swap;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Geist-UltraLight';
+  src: url('Geist-UltraLight.woff2') format('woff2'),
+       url('Geist-UltraLight.woff') format('woff');
+  font-weight: 300;
+  font-display: swap;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Geist-Light';
+  src: url('Geist-Light.woff2') format('woff2'),
+       url('Geist-Light.woff') format('woff');
+  font-weight: 300;
+  font-display: swap;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Geist-Regular';
+  src: url('Geist-Regular.woff2') format('woff2'),
+       url('Geist-Regular.woff') format('woff');
+  font-weight: 400;
+  font-display: swap;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Geist-Medium';
+  src: url('Geist-Medium.woff2') format('woff2'),
+       url('Geist-Medium.woff') format('woff');
+  font-weight: 500;
+  font-display: swap;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Geist-SemiBold';
+  src: url('Geist-SemiBold.woff2') format('woff2'),
+       url('Geist-SemiBold.woff') format('woff');
+  font-weight: 600;
+  font-display: swap;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Geist-Bold';
+  src: url('Geist-Bold.woff2') format('woff2'),
+       url('Geist-Bold.woff') format('woff');
+  font-weight: 700;
+  font-display: swap;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Geist-Black';
+  src: url('Geist-Black.woff2') format('woff2'),
+       url('Geist-Black.woff') format('woff');
+  font-weight: 800;
+  font-display: swap;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Geist-UltraBlack';
+  src: url('Geist-UltraBlack.woff2') format('woff2'),
+       url('Geist-UltraBlack.woff') format('woff');
+  font-weight: 900;
+  font-display: swap;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'GeistVF';
+  src: url('GeistVF.woff2') format('woff2'),
+       url('GeistVF.woff') format('woff');
+  font-weight: 200 900;
+  font-display: swap;
+  font-style: normal;
+}
